@@ -1,3 +1,5 @@
-# lua-data-utils-example
-Authorized with repl.it
-Just an example of lua data utilities pack.
+# Lua data example test
+
+Working on it, give me time.
+
+-- integrated with repl.it

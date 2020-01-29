@@ -1,0 +1,1 @@
+dofile("game/script_data/script.lua")
